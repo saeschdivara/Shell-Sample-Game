@@ -1,0 +1,16 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{e84fdafa-7cd3-4d30-95e2-03a99825c99d}") = "Sample game", "Sample game.csproj", "{2fee9fb4-0955-4ec9-96ab-71cd6fd59dfd}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2fee9fb4-0955-4ec9-96ab-71cd6fd59dfd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2fee9fb4-0955-4ec9-96ab-71cd6fd59dfd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2fee9fb4-0955-4ec9-96ab-71cd6fd59dfd}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2fee9fb4-0955-4ec9-96ab-71cd6fd59dfd}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
